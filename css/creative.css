@@ -47,13 +47,18 @@ h6 {
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  font-size: 50px;
+  color: #fff;
 }
 
 section {
   padding: 8rem 0;
 }
 
+header.masthead p {
+  font-size: 48px;
+  font-weight: 900;
+}
 .section-heading {
   margin-top: 0;
 }
